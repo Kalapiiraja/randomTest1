@@ -2,4 +2,4 @@
 $lists = null;
 
 if(empty($lists))
-	echo 'wow empty, much empty';
+	echo 'wow empty, much empty1';
