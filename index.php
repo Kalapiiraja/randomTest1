@@ -1,1 +1,1 @@
-<?php echo 'new branch #1';
+<?php echo 'master branch, index';
